@@ -36,6 +36,7 @@ const types = {
   '.js': 'application/javascript',
   '.json': 'application/json',
   '.jsonld': 'application/ld+json',
+  '.log': 'text/plain',
   '.md': 'text/markdown',
   '.mid': 'audio/midi',
   '.midi': 'audio/midi',
